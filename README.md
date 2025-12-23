@@ -4,7 +4,7 @@ Analysis of ChatGPT's CSS revealing systematic information hiding patterns.
 
 ## 📄 Full Report
 
-[Read the full report (PDF)](./report.pdf)
+[Read the full report (PDF)](https://aya-peppers.github.io/chatgpt-css-transparency-analysis/report.pdf)
 
 ## 📢 A Note from the Author
 
